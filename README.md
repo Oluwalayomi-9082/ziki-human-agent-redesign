@@ -49,3 +49,7 @@ The original redesign now includes the whimsical interactions: pointer-following
 Ready-to-merge outcomes expose Approve merge directly in an Action column between Agent and Delivered. Result details remain a separate button. All approval actions remain demonstrations using local state.
 
 The notification bell gently settles again every five minutes while decisions remain pending in the open page. The timer is cleared when there are no pending decisions. Reduced-motion preferences suppress the wiggle. Browsers may throttle reminders in inactive tabs.
+
+## Current interaction preview
+
+Overview includes clickable outcome summary cards with Cool Beans fill and fairy-dust trails. Approve merge combines Liquid Inversion Fill with a fairy-dust trail and has no fixed star icon. Supporting outcome text uses stronger blue typography. Notifications start empty, so the pending badge and reminder remain inactive until decisions exist. Motion respects reduced-motion preferences. All interactions use sample data.
