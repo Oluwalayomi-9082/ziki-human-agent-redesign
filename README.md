@@ -47,3 +47,5 @@ Live demo: https://ziki-human-agent-redesign.vercel.app/
 The original redesign now includes the whimsical interactions: pointer-following Overview eyes with gentle blinking, a settling notification bell, agent acknowledgement, animated approval feedback, and all-clear sparkles. Reduced-motion preferences disable animated tracking and motion.
 
 Ready-to-merge outcomes expose Approve merge directly in an Action column between Agent and Delivered. Result details remain a separate button. All approval actions remain demonstrations using local state.
+
+The notification bell gently settles again every five minutes while decisions remain pending in the open page. The timer is cleared when there are no pending decisions. Reduced-motion preferences suppress the wiggle. Browsers may throttle reminders in inactive tabs.
