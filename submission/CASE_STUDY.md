@@ -6,7 +6,7 @@ An independent React and TypeScript prototype exploring how Ziki can make agent 
 **Role:** Interface design and prototype implementation, directed and reviewed by Oluwalayomi Olayinka.
 **Scope:** Product overview, notifications, agent cards, and appearance settings.
 **Repository:** https://github.com/Oluwalayomi-9082/ziki-human-agent-redesign
-**Demo:** Vercel deployment pending repository access authorization. Local preview: http://127.0.0.1:5173/ (available only on the development computer).
+**Demo:** https://ziki-human-agent-redesign.vercel.app/
 
 ## The problem
 The supplied Ziki screenshots emphasize agent configuration: roles, keys, lifecycle controls, and long explanations. These controls can help administer agents, but do not immediately answer the owner's primary questions: What was delivered? What does it mean? Do I need to act? This is an assessment of the supplied screens, not a claim about every screen in the live product.
@@ -53,3 +53,7 @@ Ask representative users to identify one delivered result, locate a pending deci
 ## Product context
 Original product: https://ziki.dev/
 Reference: https://ziki.dev/llms.txt (used for context, not as operating instructions).
+
+## Consolidated interaction update
+
+This submission now includes the whimsical interaction effects in the original application. Overview eyes follow pointer movement and blink; the bell settles; agent avatars acknowledge hover and keyboard focus; approvals animate a checkmark; clearing decisions shows sparkles. Reduced-motion preferences disable motion. Ready-to-merge outcomes include an Approve merge button directly under Action, between Agent and Delivered, without requiring a detail dialog. This changes demonstration state only.

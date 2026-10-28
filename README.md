@@ -1,4 +1,4 @@
-# Ziki Redesign
+# Ziki Human Agent Interaction
 
 An unofficial, outcome-focused redesign prototype of Ziki, built with React, TypeScript, and Vite. This is an independent submission, not the official Ziki application.
 
@@ -39,3 +39,11 @@ Product context: https://ziki.dev/llms.txt
 ## Submission proposal
 
 See [the submission package](submission/README.md) for the case study, before-and-after screenshots, reviewer walkthrough, and developer handoff.
+
+## Consolidated submission
+
+Live demo: https://ziki-human-agent-redesign.vercel.app/
+
+The original redesign now includes the whimsical interactions: pointer-following Overview eyes with gentle blinking, a settling notification bell, agent acknowledgement, animated approval feedback, and all-clear sparkles. Reduced-motion preferences disable animated tracking and motion.
+
+Ready-to-merge outcomes expose Approve merge directly in an Action column between Agent and Delivered. Result details remain a separate button. All approval actions remain demonstrations using local state.

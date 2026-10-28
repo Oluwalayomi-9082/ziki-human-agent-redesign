@@ -38,3 +38,7 @@ Suggested view model: Outcome { id, issueId, title, summary, agentId, deliveredA
 
 ## Verification
 TypeScript and Vite production builds passed during development. The owner reported successful manual feature testing. This is a submission prototype, not a production integration.
+
+## Consolidated interaction update
+
+This submission now includes the whimsical interaction effects in the original application. Overview eyes follow pointer movement and blink; the bell settles; agent avatars acknowledge hover and keyboard focus; approvals animate a checkmark; clearing decisions shows sparkles. Reduced-motion preferences disable motion. Ready-to-merge outcomes include an Approve merge button directly under Action, between Agent and Delivered, without requiring a detail dialog. This changes demonstration state only.

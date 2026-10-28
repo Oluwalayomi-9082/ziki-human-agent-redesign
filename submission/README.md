@@ -29,4 +29,8 @@ Ziki Redesign is an outcome-focused React and TypeScript prototype that separate
 - Case study, screenshots, and developer handoff: included here.
 - Prototype owner testing: reported successful.
 - Formal usability study and production API integration: not conducted.
-- Public live demo: pending Vercel repository access and a successful deployment.
+- Public live demo: https://ziki-human-agent-redesign.vercel.app/
+
+## Consolidated interaction update
+
+This submission now includes the whimsical interaction effects in the original application. Overview eyes follow pointer movement and blink; the bell settles; agent avatars acknowledge hover and keyboard focus; approvals animate a checkmark; clearing decisions shows sparkles. Reduced-motion preferences disable motion. Ready-to-merge outcomes include an Approve merge button directly under Action, between Agent and Delivered, without requiring a detail dialog. This changes demonstration state only.

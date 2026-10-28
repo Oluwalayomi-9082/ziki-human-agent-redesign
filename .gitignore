@@ -5,3 +5,8 @@ dist
 .vercel
 .env
 .env.*
+
+# Separate local experiments and generated review files
+ziki-whimsical/
+ziki-redesign-submission.zip
+submission/documents/
