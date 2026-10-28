@@ -35,3 +35,7 @@ Import this GitHub repository into Vercel. Use the Vite preset, npm run build as
 
 Original product: https://ziki.dev/
 Product context: https://ziki.dev/llms.txt
+
+## Submission proposal
+
+See [the submission package](submission/README.md) for the case study, before-and-after screenshots, reviewer walkthrough, and developer handoff.
